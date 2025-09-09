@@ -1,6 +1,6 @@
 # Real-time Earthquake Visualizer 🌎
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](./src/assets/screenshot.png)
 
 This project is a responsive web application built with React that visualizes recent earthquake activity from around the world on an interactive map. It fetches real-time data from the U.S. Geological Survey (USGS) and allows users to search for specific locations to see nearby seismic events.
 
